@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dedyanna cacau
 
-- 🔭 I’m currently working as Back-end Developer at [Info](https://www.linkedin.com/company/info15anos/mycompany/)
+- 🔭 I’m currently working as Back-end Developer at [Deal](https://www.linkedin.com/company/deal/mycompany/)
 - 🌱 I’m currently learning **JavaScript, NodeJS**
 - 😄 Pronouns: She/Her...
 
