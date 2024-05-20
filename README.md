@@ -1,8 +1,6 @@
-### Hi there 👋 I'm Dedyanna cacau
+### Hi there 👋 I'm Dedyanna Cacau
 
-- 🔭 I’m currently working as Backend Developer at [Deal](https://www.linkedin.com/company/deal/mycompany/)
+- 🔭 Currently working as a Backend Developer at [Banco BV](https://www.linkedin.com/company/bancobv/)
+- 🌱 Skilled in **Java, Spring Boot | JavaScript, Node.js, TypeScript | SQL**
 
-- 🌱 I’m currently learning **JavaScript, NodeJS, Typescript**
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dedyanna-cacau)](https://www.linkedin.com/in/dedyanna-cacau)
-
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dedyanna-cacau)](https://www.linkedin.com/in/dedyanna-cacau)
