@@ -35,8 +35,3 @@
 ## 🌍 Let's connect!  
 - [LinkedIn](https://www.linkedin.com/in/dedyanna-cacau)  
 - [Medium](https://medium.com/@dedyannacacau)  
-
----
-
-## 📊 GitHub Stats  
-![Dedyanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedyannacacau&show_icons=true&theme=tokyonight)
