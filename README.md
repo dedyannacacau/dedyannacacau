@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dedyanna Cacau  
 
-💻 Backend Software Engineer at Banco BV  
+💻 Backend Software Developer
 ☕ Java & Spring Boot enthusiast  
 🚀 Passionate about scalable systems, APIs, and clean architecture  
 ✍️ Writing about Java and software engineering on [Medium](https://medium.com/@dedyannacacau)  
